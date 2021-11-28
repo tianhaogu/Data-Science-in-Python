@@ -1,4 +1,4 @@
 # Data-Science-in-Python
-University of Michigan Stats-Five-Zero-Seven, Winter 2021
+University of Michigan STATS-Cinco-Cero-Siete, Winter 2021
 
 NO COPY for any reason!!!
